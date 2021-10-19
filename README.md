@@ -7,6 +7,10 @@
 - VQGAN和CLIP合起来有一个pixray project
 
 ## 例子/code TBD
+- 马路对面的房子
+  - [![马路对面的房子](https://img.youtube.com/vi/48teftF09TM/0.jpg)](https://www.youtube.com/watch?v=48teftF09TM)
+- 白雪覆盖高山
+  - [![白雪覆盖高山](https://img.youtube.com/vi/-kY6LL3XoV0/0.jpg)](https://www.youtube.com/watch?v=-kY6LL3XoV0)
 
 ## 其他相关文章和笔记本
 - https://medium.com/towards-data-science/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f
